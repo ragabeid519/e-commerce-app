@@ -1,0 +1,18 @@
+{
+    "app_name": "Flutter Demo",
+    "home": "Home",
+    "login": "Login",
+    "register": "Register",
+    "loginandreg": "Login & Register",
+    "email": "Email",
+    "password": "Password",
+    "forgetpass": "Forget Password",
+    "loginwithgoogle": "Login with Google",
+    "loginwithfacebook": "Login with Facebook",
+    "or": "OR",
+    "registerwithgoogle": "Register with Google",
+    "registerwithfacebook": "Register with Facebook",
+    "registerwithemail": "Register with Email",
+    "emailnotvalid": "Email not valid",
+    "passnotvalid": "Password not valid"
+}

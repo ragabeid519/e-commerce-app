@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "736908291694",
+    "project_id": "intrepid-charge-479905-m8",
+    "storage_bucket": "intrepid-charge-479905-m8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736908291694:android:5be13c933d470056b2007f",
+        "android_client_info": {
+          "package_name": "com.example.fire_base_project2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA2EA8GCf7XDjzlApdljIhGfs82vgn-70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
